@@ -1,0 +1,26 @@
+.sidebar {
+  background-color: blue;
+  float: right;
+  border: 5px solid black;
+  color: white;
+  font-size: 22px;
+  font-family: sans-serif;
+  font-weight: bold;
+  padding: 22px;
+}
+.photo {
+  height:250px;
+  float: left;
+}
+.videos {
+  font-size: 32px;
+  color:blue;
+}
+body {
+  background-color: lightblue;
+  font-size: 24px;
+  font-family: sans-serif;
+}
+h1 {
+  text-align: center;
+}
